@@ -57,5 +57,4 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devang-joshi-dj&layout=compact)](https://github.com/devang-joshi-dj/github-readme-stats)
-
 ![Devang Joshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devang-joshi-dj&show_icons=true&theme=radical)
