@@ -20,6 +20,13 @@
   <a href="https://twitter.com/DevangJ36808561" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="devang-j-5084ab10b" height="30" width="40" />
   </a>
+  <a href="https://www.instagram.com/devangjoshi007/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="devang-j-5084ab10b" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100007049146869" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="devang-j-5084ab10b" height="30" width="40" />
+  </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
