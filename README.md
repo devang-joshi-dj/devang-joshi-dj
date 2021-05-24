@@ -148,7 +148,6 @@
 </p>
 
 <p>
-	&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=devang-joshi-dj&show_icons=true&locale=en" alt="devang-joshi-dj" />
 </p>
 
