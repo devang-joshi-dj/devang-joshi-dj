@@ -1,4 +1,4 @@
-W<h1 align="center">Hi 👋, I'm Devang Joshi</h1>
+<h1 align="center">Hi 👋, I'm Devang Joshi</h1>
 
 <h3 align="center">A student and passionate frontend developer from India</h3>
 
