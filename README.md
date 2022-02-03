@@ -13,8 +13,8 @@
 </p>
 
 <p align="left">
-	<a href="https://twitter.com/devangj36808561" target="blank">
-		<img src="https://img.shields.io/twitter/follow/devangj36808561?logo=twitter&style=for-the-badge" alt="devangj36808561" />
+	<a href="https://twitter.com/Devang__Joshi" target="blank">
+		<img src="https://img.shields.io/twitter/follow/Devang__Joshi?logo=twitter&style=for-the-badge" alt="Devang__Joshi" />
 	</a>
 </p>
 
